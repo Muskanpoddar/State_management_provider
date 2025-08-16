@@ -14,14 +14,6 @@ It showcases a simple, scalable way to manage and update app state, making it ea
 
 ---
 
-## 📂 Project Structure
-lib/
-├── main.dart # Entry point of the app
-├── counter/
-│ └── counter_view_model.dart # Example provider class
-
----
-
 ## 🛠️ Getting Started
 
 ### Prerequisites
